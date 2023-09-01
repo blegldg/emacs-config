@@ -1,2 +1,2 @@
 # emacs-config
-This Config Is Tailored For Crafting Poems &amp; Writing, Jotting Down Notes For Both School And University, And Tackling Code (Which It Aint My Cup Of Tee).
+This configuration is tailored for crafting poems and writing, jotting down notes for both school and university, and tackling code (which isn't my cup of tea).
